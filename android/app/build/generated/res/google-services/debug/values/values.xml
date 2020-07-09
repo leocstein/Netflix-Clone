@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">708891942883-babj3u8hgcl3p50bkdphqnii2718m1i1.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://projeto-react-native2.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">708891942883</string>
+    <string name="google_api_key" translatable="false">AIzaSyDJoaDh5n0VaBvp5dSeYPZXmczVyxsQ4DY</string>
+    <string name="google_app_id" translatable="false">1:708891942883:android:6d88491509eaa88c554ad6</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDJoaDh5n0VaBvp5dSeYPZXmczVyxsQ4DY</string>
+    <string name="google_storage_bucket" translatable="false">projeto-react-native2.appspot.com</string>
+    <string name="project_id" translatable="false">projeto-react-native2</string>
+</resources>
